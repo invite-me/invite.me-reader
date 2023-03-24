@@ -1,0 +1,23 @@
+{
+	"url_base": "<url to inivteme>",
+	"url_login": "/auth/login",
+	"url_att_in": "/attendance/inside",
+	"url_att_out": "/attendance/outside",
+	"payload": {
+		"email": "login",
+		"password": "password"
+	},
+	"stream_dim" : {
+		"height": 0.45,
+		"width": 0.6
+	},
+	"buttons_dim": {
+		"height": 0.2,
+		"width": 0.1
+	},
+	"fontfamily": "Helvetica",
+	"gif_path": "qr.gif",
+	"seamless": true,
+	"button_in_text": "              wchodzę!",
+	"button_out_text": "      wychodzę!"
+}
